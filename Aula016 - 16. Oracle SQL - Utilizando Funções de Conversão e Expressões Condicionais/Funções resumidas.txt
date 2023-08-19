@@ -1,0 +1,19 @@
+--
+-- Seção 9 
+--  Funções de Conversão e Expressões Condicionais 
+--
+-- Aula 1
+--
+-- Vídeo 16
+-- Sintético das funções
+
+-- Função TO_CHAR com Datas
+-- Função TO_CHAR com Números
+-- Função TO_NUMBER
+-- Função TO_DATE
+-- Função NVL
+-- Função COALESCE
+-- Função NVL2
+-- Função NULLIF
+-- Expressão CASE
+-- Função DECODE
