@@ -26,28 +26,60 @@
   - Aula021 - 21. Oracle SQL - INNER Joins
   - Aula022 - 22. Oracle SQL - OUTER Joins
   - Aula023 - 23. Oracle SQL - Produto Cartesiano
-Aula024 - 24. Oracle SQL - Joins utilizando sintaxe Oracle
-Aula025 - 25. Oracle SQL - Sub-Consultas Single-Row
-Aula026 - 26. Oracle SQL - Sub-Consultas Multiple-row
-Aula027 - 27. Oracle SQL - Utilizando operadores EXISTS e NOT EXISTS
-Aula028 - 28. Oracle SQL - Utilizando Sub-consulta correlacionada
-Aula029 - 29. Oracle SQL - Utilizando Sub-consultas Multiple-Column
-Aula030 - 30. Oracle SQL - Utilizando Sub-consultas na Cláusula FROM
-Aula031 - 31. Oracle SQL - Operadores SET
-Aula032 - 32. Oracle SQL - Comandos DML Manipulando dados
-Aula033 - 33. Oracle SQL - Criando e Gerenciando Tabelas
-Aula034 - 34. Oracle SQL - Alterando a Estrutura da Tabela
-Aula035 - 35. Oracle SQL - Criando Constraints na criação da Tabela
-Aula036 - 36. Oracle SQL - Gerenciando Constraints
-Aula037 - 37. Oracle SQL - Criando e Gerenciando Visões
-Aula038 - 38. Oracle SQL - Criando e Gerenciando Sequencias
-Aula039 - 39. Oracle SQL - Criando e Gerenciando Índices
-Aula040 - 40. Oracle SQL - Criando Sinônimos
-Aula041 - 41. Oracle SQL - Utilizando o SQLPLUS ACCEPT
+  - Aula024 - 24. Oracle SQL - Joins utilizando sintaxe Oracle
+  - Aula025 - 25. Oracle SQL - Sub-Consultas Single-Row
+  - Aula026 - 26. Oracle SQL - Sub-Consultas Multiple-row
+  - Aula027 - 27. Oracle SQL - Utilizando operadores EXISTS e NOT EXISTS
+  - Aula028 - 28. Oracle SQL - Utilizando Sub-consulta correlacionada
+  - Aula029 - 29. Oracle SQL - Utilizando Sub-consultas Multiple-Column
+  - Aula030 - 30. Oracle SQL - Utilizando Sub-consultas na Cláusula FROM
+  - Aula031 - 31. Oracle SQL - Operadores SET
+  - Aula032 - 32. Oracle SQL - Comandos DML Manipulando dados
+  - Aula033 - 33. Oracle SQL - Criando e Gerenciando Tabelas
+  - Aula034 - 34. Oracle SQL - Alterando a Estrutura da Tabela
+  - Aula035 - 35. Oracle SQL - Criando Constraints na criação da Tabela
+  - Aula036 - 36. Oracle SQL - Gerenciando Constraints
+  - Aula037 - 37. Oracle SQL - Criando e Gerenciando Visões
+  - Aula038 - 38. Oracle SQL - Criando e Gerenciando Sequencias
+  - Aula039 - 39. Oracle SQL - Criando e Gerenciando Índices
+  - Aula040 - 40. Oracle SQL - Criando Sinônimos
+  - Aula041 - 41. Oracle SQL - Utilizando o SQLPLUS ACCEPT
 
+- PL/SQL (Aula 042 a 111)
+  - Aula045 - 45. Oracle PLSQL - Definindo Identificadores - Variáveis
+  - Aula046 - 46. Oracle PLSQL - Definindo Identificadores - Constante
+  - Aula047 - 47. Oracle PLSQL - Tipos de Dados no PLSQL - Datatypes
+  - Aula048 - 48. Oracle PLSQL - Variável Bind
+  - Aula049 - 49. Oracle PLSQL - Sintaxe e Diretrizes de um Bloco PLSQL
+  - Aula050 - 50. Oracle PLSQL - Utilizando Funções no bloco PLSQL
+  - Aula051 - 51. Oracle PLSQL - Blocos Aninhados e Escopo de Identificadores
+  - Aula052 - 52. Oracle PLSQL - Padrões de codificação sugeridos
+  - Aula054 - 54. Oracle PLSQL - Utilizando o comando SELECT no PLSQL
+  - Aula055 - 55. Oracle PLSQL - Utilizando o comando INSERT no PLSQL
+  - Aula056 - 56. Oracle PLSQL - Utilizando o comando UPDATE no PLSQL
+  - Aula057 - 57. Oracle PLSQL - Utilizando o comando DELETE no PLSQL
+  - Aula058 - 58. Oracle PLSQL - Controlando Transações de banco de dados no PLSQL
+  - Aula059 - 59. Oracle PLSQL - Cursor Implícito
+  - Aula060 - 60. Oracle PLSQL - Operadores PLSQL e Regra de precedência
+  - Aula061 - 61. Oracle PLSQL - Utilizando o comando IF
+  - Aula062 - 62. Oracle PLSQL - Utilizando o comando CASE
+  - Aula063 - 63. Oracle PLSQL - LOOP básico
+  - Aula064 - 64. Oracle PLSQL - FOR LOOP
+  - Aula065 - 65. Oracle PLSQL - WHILE LOOP
+  - Aula066 - 66. Oracle PLSQL - Controlando LOOPs aninhados
+  - Aula067 - 67. Oracle PLSQL - Variável Tipo PLSQL Record
+  - Aula068 - 68. Oracle PLSQL - Utilizando o Atributo ROWTYPE
+  - Aula069 - 69. Oracle PLSQL - Collections - Associative Array
+  - Aula070 - 70. Oracle PLSQL - Associative Array of Records - Bulk Collect
+  - Aula071 - 71. Oracle PLSQL - Collections - Nested Table
+  - Aula072 - 72. Oracle PLSQL - Nested Table of Records - Bulk Collect
+  - Aula073 - 73. Oracle PLSQL - Collections - Varray
+  - Aula074 - 74. Oracle PLSQL - Varray of Records - Bulk Collect
+  - Aula075 - 75. Oracle PLSQL - Utilizando Métodos para controlar Collections
+  - Aula076 - 76. Oracle PLSQL - Controlando um Cursor Explícito
+  - Aula077 - 77. Oracle PLSQL - Controlando um Cursor Explícito utilizando CURSOR FOR LOOP
+  - Aula078 - 78. Oracle PLSQL - Cursor Explícito com Parâmetros
+  - Aula079 - 79. Oracle PLSQL - Cursor Explícito com SELECT FOR UPDATE
 
-
-- PL/SQL
-  - Aula 042 a 111
-- Modelagem 
-  - Aula 112 a 147
+- Modelagem (Aula 112 a 147)
+  - ...
