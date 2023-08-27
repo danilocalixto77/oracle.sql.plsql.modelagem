@@ -42,13 +42,12 @@ BEGIN
 END;
 
 
-/*
 SET SERVEROUTPUT ON
 SET VERIFY OFF
 ACCEPT pjob_id PROMPT 'Digite o ID do Jobs: '
 DECLARE
   job_record  jobs%rowtype;
-  vjob_id     jobs.job_id%type := &pjob_id;
+  vjob_id     jobs.job_id%type := '&pjob_id';
 BEGIN
   SELECT  * 
   INTO    job_record
@@ -59,7 +58,7 @@ BEGIN
                      job_record.job_id || ' - ' || 
                      job_record.job_id || ' - ' ||
                      job_record.job_id);
-END;*/
+END;
 
 
 
