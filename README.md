@@ -4,9 +4,9 @@
 ## Índice de temas: 
 - SQL
   - Aula 001 a 041
-    -Aula001 - 1. Apresentação do curso Oracle SQL
-Aula002 - 2. Download e Instalação do Oracle Database 21c XE
-Aula003 - 3. Configurando o LISTENER e o TNSNAMES - Criando e testando uma Conexão Local
+    - Aula001 - 1. Apresentação do curso Oracle SQL
+    - Aula002 - 2. Download e Instalação do Oracle Database 21c XE
+    - Aula003 - 3. Configurando o LISTENER e o TNSNAMES - Criando e testando uma Conexão Local
 Aula004 - 4. Download e Instalação do Oracle SQL Developer
 Aula005 - 5. Criando uma conexão para o usuário SYS (dba) no Oracle SQL Developer
 Aula006 - 6. Criando o Usuário HR
