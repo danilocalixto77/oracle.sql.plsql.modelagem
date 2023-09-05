@@ -80,6 +80,7 @@
   - Aula077 - 77. Oracle PLSQL - Controlando um Cursor Explícito utilizando CURSOR FOR LOOP
   - Aula078 - 78. Oracle PLSQL - Cursor Explícito com Parâmetros
   - Aula079 - 79. Oracle PLSQL - Cursor Explícito com SELECT FOR UPDATE
+  - Aula080 - 80. Oracle PLSQL - Tratamento de Exceções
 
 - Modelagem (Aula 112 a 147)
   - ...
