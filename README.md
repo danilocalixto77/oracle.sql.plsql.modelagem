@@ -81,6 +81,10 @@
   - Aula078 - 78. Oracle PLSQL - Cursor Explícito com Parâmetros
   - Aula079 - 79. Oracle PLSQL - Cursor Explícito com SELECT FOR UPDATE
   - Aula080 - 80. Oracle PLSQL - Tratamento de Exceções
+  - Aula081 - 81. Oracle PLSQL - Exceções Definidas pelo Desenvolvedor - RAISE
+  - Aula082 - 82. Oracle PLSQL - PRAGMA EXCEPTION INIT
+  - Aula083 - 83. Oracle PLSQL - Criando Procedures de Banco de Dados
+
 
 - Modelagem (Aula 112 a 147)
   - ...
