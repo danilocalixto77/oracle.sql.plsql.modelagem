@@ -84,7 +84,8 @@
   - Aula081 - 81. Oracle PLSQL - Exceções Definidas pelo Desenvolvedor - RAISE
   - Aula082 - 82. Oracle PLSQL - PRAGMA EXCEPTION INIT
   - Aula083 - 83. Oracle PLSQL - Criando Procedures de Banco de Dados
-
+  - Aula084 - 84. Oracle PLSQL - Utilizando Parametros tipo IN
+  - Aula085 - 85. Oracle PLSQL - Utilizando Parametros tipo OUT e IN OUT
 
 - Modelagem (Aula 112 a 147)
   - ...
