@@ -86,6 +86,13 @@
   - Aula083 - 83. Oracle PLSQL - Criando Procedures de Banco de Dados
   - Aula084 - 84. Oracle PLSQL - Utilizando Parametros tipo IN
   - Aula085 - 85. Oracle PLSQL - Utilizando Parametros tipo OUT e IN OUT
+  - Aula086 - 86. Oracle PLSQL - Métodos de passagem de Parâmetros
+  - Aula087 - 87. Oracle PLSQL - Recompilando Procedures de Banco de Dados
+  - Aula088 - 88. Oracle PLSQL - Removendo Procedures de Banco de Dados
+  - Aula089 - 89. Oracle PLSQL - Criando Funções de Banco de Dados
+  - Aula090 - 90. Oracle PLSQL - Utilizando Funções em comandos SQL
+  - Aula091 - 91. Oracle PLSQL - Recompilando Funções de Banco de Dados
+  - Aula092 - 92. Oracle PLSQL - Removendo Funções de Banco de Dados
 
 - Modelagem (Aula 112 a 147)
   - ...
